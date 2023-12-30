@@ -7,7 +7,7 @@
 - No accounts, no adding friends, no feeds, etc
 - All data is encrypted and kept client-side
 - All sharing is done with end-to-end encryption
-- Only real, verified people: no bots, no fake accounts, no companies or organizations, no duplicate profiles, etc
+- Only real, actively verified people: no bots, no fake accounts, no companies or organizations, no duplicate profiles, etc
 - Share a contact card, reconnect with people
 - Introduce people to each other by passing on their contact card
 - Abstract concepts such as "contact card" provides longevity if people stop using email or whatsapp or telegram or change their number
