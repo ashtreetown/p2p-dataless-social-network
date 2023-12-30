@@ -12,7 +12,7 @@
 - Introduce people to each other by passing on their contact card
 - Abstract concepts such as "contact card" provides longevity if people stop using email or whatsapp or telegram or change their number
 - Check regularly that users are still active and their contact card is still correct
-- Instead of traditional search, users can find each other by explaining what they know about the other person and AI will figure out who they're talking about
+- Instead of traditional named-based search, users can find each other by explaining what they know about the other person and AI will figure out who they're talking about
 
 #### How to Contribute
 
